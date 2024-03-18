@@ -1,4 +1,5 @@
-Projeto Criptografia e Descriptografia
+#Projeto Criptografia e Descriptografia
+
 Este é um projeto desenvolvido para fornecer uma solução de criptografia e descriptografia robusta usando os algoritmos AES-256 e SHA, integrados com um banco de dados SQL e um método de login seguro.
 
 Funcionalidades
